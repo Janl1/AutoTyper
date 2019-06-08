@@ -1,3 +1,5 @@
+![alt text](https://file.lahmer.eu/autotyper_icon.png)
+
 # AutoTyper
 Simple clipboard auto typer
 
