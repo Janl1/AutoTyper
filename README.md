@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" height="128" src="https://file.lahmer.eu/autotyper_icon.png">
+  <img width="265" height="265" src="https://file.lahmer.eu/autotyper_icon.png">
 </p>
 
 # AutoTyper
