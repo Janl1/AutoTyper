@@ -1,0 +1,9 @@
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\bin\Debug\AutoTyper.exe.config
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\bin\Debug\AutoTyper.exe
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\bin\Debug\AutoTyper.pdb
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.Form1.resources
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.Properties.Resources.resources
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.csproj.GenerateResource.cache
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.exe
+C:\Users\Jan\source\repos\AutoTyper\AutoTyper\obj\Debug\AutoTyper.pdb
