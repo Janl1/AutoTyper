@@ -1,4 +1,6 @@
-![alt text](https://file.lahmer.eu/autotyper_icon.png)
+<p align="center">
+  <img width="128" height="128" src="https://file.lahmer.eu/autotyper_icon.png">
+</p>
 
 # AutoTyper
 Simple clipboard auto typer
