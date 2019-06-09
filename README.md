@@ -7,7 +7,7 @@ Simple clipboard auto typer
 
 ## How it works
 The executable will wait two seconds after launch and starts typing the content from clipboard.
-After launching the tool select the window of choice and place the cursor.
+After launching the tool, select the window of choice and place the cursor.
 
 ## Usage
 There are multiple ways to use this tool in a smart way. I guess the best way is to assign the executable to a keyboard macro which is supported by nearly every major keyboard manufacturer.<br>
